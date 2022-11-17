@@ -1,2 +1,1 @@
-# Face_Smile_Eyes-detection
- 
+Detecting and highlighting face,eyes, and smile from a stream data through webcam
